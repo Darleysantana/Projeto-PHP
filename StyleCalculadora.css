@@ -1,0 +1,49 @@
+body {
+    width: 140px;
+    padding-top:8px;
+    position: absolute;
+    top: -11px;
+    right: 0px;
+    bottom: 90px;
+    left: 450px;
+    color: #5f319b;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: skyblue;
+}
+
+#Corpo{
+    background-color: bisque;
+    width: 400px;
+    padding-bottom: 100px;
+    position: absolute;
+    left: 0px;
+    border-radius: 30px;
+}
+
+#Corpo .formulario{
+    position: relative;
+    left: 60px;
+    padding: 12px;
+}
+
+input{
+    width: 200px;
+    padding: 10px 15px;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+select{
+    width: 300px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+label{
+    font-size: 25px;
+}
+
+h1{
+    position: relative;
+    left: 80px;
+}
