@@ -7,7 +7,7 @@ session_start();
 	<head>
 		<title> Calculadora </title>
 		<meta charset="utf-8">
-		<link href="style.css" rel="stylesheet">
+		<link href="StyleCalculadora.css" rel="stylesheet">
 	</head>
 
 	<body>
